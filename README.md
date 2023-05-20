@@ -38,7 +38,7 @@
   <tr>
     <td>7</td>
     <td>Print Dry/Alert using Moisture Sensor</td>
-    <td></td>
+    <td><a href="https://github.com/Vikhyathsai11/Iot/blob/main/water_detection_iot/water_detection_iot.ino">code repo</a></td>
   </tr>
 </table>
 
