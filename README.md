@@ -28,7 +28,7 @@
   <tr>
     <td>5</td>
     <td>Print Object Detection using IR Sensor</td>
-    <td></td>
+    <td><a href="https://github.com/Vikhyathsai11/Iot/blob/main/iot3/iot3.ino">code repo</a></td>
   </tr>
   <tr>
     <td>6</td>
