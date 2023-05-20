@@ -33,7 +33,7 @@
   <tr>
     <td>6</td>
     <td>Monitor Alcohol Values using Alcohol Sensor</td>
-    <td></td>
+    <td><a href="https://github.com/Vikhyathsai11/Iot/blob/main/iot4_alcohol/iot4_alcohol.ino">code repo</a></td>
   </tr>
   <tr>
     <td>7</td>
