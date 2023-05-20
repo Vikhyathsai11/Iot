@@ -23,7 +23,7 @@
   <tr>
     <td>4</td>
     <td>Turn LED ON/OFF using Light Sensor</td>
-    <td></td>
+    <td>< href="https://github.com/Vikhyathsai11/Iot/blob/main/iot2/iot2.ino">code repo</a></td>
   </tr>
   <tr>
     <td>5</td>
